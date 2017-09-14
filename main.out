@@ -1,0 +1,16 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Related works}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Text Classification}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Vietnamese Corpus}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Keyword Extraction}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Feature Selection}{section.2}% 6
+\BOOKMARK [3][-]{subsubsection.2.4.1}{Bag of Words Approach}{subsection.2.4}% 7
+\BOOKMARK [3][-]{subsubsection.2.4.2}{Word Segmentation}{subsection.2.4}% 8
+\BOOKMARK [3][-]{subsubsection.2.4.3}{Stop-words Removal}{subsection.2.4}% 9
+\BOOKMARK [1][-]{section.3}{Text classification methods}{}% 10
+\BOOKMARK [2][-]{subsection.3.1}{Random Forest}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.2}{Support Vector Machines}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.3}{Neural Network}{section.3}% 13
+\BOOKMARK [1][-]{section.4}{Result}{}% 14
+\BOOKMARK [1][-]{section.5}{Conclusion and future works}{}% 15
+\BOOKMARK [1][-]{section*.14}{References}{}% 16
